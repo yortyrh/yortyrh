@@ -12,7 +12,7 @@
   <a href="https://yorty.info/cv/yorty-ruiz-hernandez-en.pdf"><img alt="Résumé PDF" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9%20PDF-2563eb?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
   <a href="https://linkedin.com/in/yorty"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge"></a>
   <a href="https://x.com/yortyrh"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.upwork.com/freelancers/~015a2fa3db4740519b"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/yorty"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white"></a>
   <a href="mailto:yorty.ruiz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
